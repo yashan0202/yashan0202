@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yash Anand</h1>
 <h3 align="center">A enthusiastic developer from India</h3>
 
-<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...>"-->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashan0202" alt="yashan0202" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yashan0202" target="blank"><img src="https://img.shields.io/twitter/follow/yashan0202?logo=twitter&style=for-the-badge" alt="yashan0202" /></a> </p>
 
 - 🔭 I’m currently working on **a Full Stack Music/Video streaming application that is a mixture of (YouTube+Spotify+Shazam)**
@@ -41,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashan0202&show_icons=true&locale=en" alt="yashan0202" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashan0202&" alt="yashan0202" /></p>
+
