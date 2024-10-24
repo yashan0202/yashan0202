@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashan0202&show_icons=true&locale=en&layout=compact" alt="yashan0202" /></p>
 
-<p><img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Lazylad"/></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Lazylad" width="200px" height="250px"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashan0202&show_icons=true&locale=en" alt="yashan0202" /></p>
 
