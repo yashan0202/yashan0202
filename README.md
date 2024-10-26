@@ -9,19 +9,13 @@
 
 - 🌱 I’m currently learning **React JS, Python, Django**
 
-- 👯 I’m looking to collaborate on **invest in BitCoin**
-
-- 🤝 I’m looking for help with **Trade sessions**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yashan0202](https://github.com/yashan0202)
-
 - 📝 I regularly write articles on [https://theinfinitethreads.wordpress.com/](https://theinfinitethreads.wordpress.com/)
 
-- 💬 Ask me about **MERN, React, Universe**
+- 💬 Ask me about **MERN, React, BitCoin & Universe**
 
 - 📫 How to reach me **yashuan0202@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am the monkey out of HC Verma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
