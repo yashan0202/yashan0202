@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **MERN, React, BitCoin & Universe**
 
-- 📫 How to reach me **yashuan0202@gmail.com**
-
 - ⚡ Fun fact **I am the monkey out of HC Verma**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,9 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashan0202&show_icons=true&locale=en&layout=compact" alt="yashan0202" /></p>
 
-<p><img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Lazylad" width="300px" height="300px"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashan0202&show_icons=true&locale=en" alt="yashan0202" /></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Lazylad" width="250px" height="250px"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashan0202&" alt="yashan0202" /></p>
 
